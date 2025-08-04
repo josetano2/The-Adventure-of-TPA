@@ -1,6 +1,6 @@
  The Adventures of Tim, Patrick, and Araszkiewicz
 
-A quest-based 3D action RPG built with Unity, developed as part of the Technical Test for Assistant Recruitment at Zinus University.
+A quest-based 3D action RPG built with Unity, developed as part of the Technical Test for Assistant Recruitment at Binus University.
 
 ## 🎮 Game Overview
 
